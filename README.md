@@ -40,25 +40,25 @@ This interactive dashboard is organized into **multiple pages** for a structured
 
 ### 🔹 Productivity Analysis Overview
 
-Shows overall distribution of **actual vs. targeted productivity** using histograms and line charts.
+Shows **Overview of the analysis** using KPI cards and **Productivity Analysis by Day**.
 
-![Overview Page](GWP1.png)
+![Overview Page](GWP1.PNG)
 
 ---
 
 ### 🔹 Department & Team Performance
 
-Visualizes **department-wise and team-wise productivity trends**, including SMV, idle time, and incentive comparisons.
+Shows overall distribution of **actual vs. targeted productivity** using histograms and line charts.
 
-![Department Page](GWP2.png)
+![Department Page](GWP2.PNG)
 
 ---
 
 ### 🔹 Time-based Insights
 
-Allows filtering by **day of the week** and **quarter**, helping uncover operational bottlenecks or high-performance timeframes.
+Visualizes **department-wise and team-wise productivity trends**, including SMV, idle time, and incentive comparisons.
 
-![Time Insights Page](GWP3.png)
+![Time Insights Page](GWP3.PNG)
 
 ---
 
@@ -66,7 +66,7 @@ Allows filtering by **day of the week** and **quarter**, helping uncover operati
 
 Applies **Principal Component Analysis (PCA)** and **k-means clustering** to find behavioral patterns across workers.
 
-![PCA Clustering Page](GWP4.png)
+![PCA Clustering Page](GWP4.PNG)
 
 ---
 
